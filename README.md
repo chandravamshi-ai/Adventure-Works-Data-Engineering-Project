@@ -13,3 +13,6 @@ Azure End-To-End Data Engineering Project (From Scratch!)
 ## 3. Transformation DataBricks PySpark
 ![TDPYS](https://github.com/chandravamshi-ai/Adventure-Works-Data-Engineering-Project/blob/main/IMAGES/Transfomation%20DataBricks%20PySpark.png)
 
+## 4. Silver(Transformed Data) Azure DataLake
+
+![SADL](https://github.com/chandravamshi-ai/Adventure-Works-Data-Engineering-Project/blob/main/IMAGES/Silver%20Azure%20DataLake.png)
